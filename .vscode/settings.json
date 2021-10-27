@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        // Window configs here
+    },
+    "editor.tokenColorCustomizations": {
+        // Code editor configs here
+        "[One Monokai]": {
+            "comments": "#d8a4c4"
+        }
+    }
+}
