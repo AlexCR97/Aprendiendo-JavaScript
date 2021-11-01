@@ -1,5 +1,6 @@
 /**
- * Escribe en codigo JavaScript las siguientes expresiones relacionales e imprime el resultado de cada una.
+ * Escribe en codigo JavaScript las siguientes expresiones relacionales simples
+ * e imprime el resultado de cada una.
  * 
  ** 86 < 100
  ** 99 < 17

@@ -3,9 +3,11 @@
  * 
  * AND = y
  * OR = o
+ * NOT = no
  * 
  * AND = MULTIPLICACION
  * OR = SUMA
+ * NOT = * -1
  */
 
 

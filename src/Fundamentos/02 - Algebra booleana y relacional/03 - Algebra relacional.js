@@ -7,6 +7,8 @@
  ** >=  mayor o igual que
  ** ==  igual debil (Compara el valor sin tomar en cuenta el tipo de dato. Es menos preciso)
  ** === igual fuerte (Compara el valor y el tipo de dato. Es mas preciso)
+ ** !=  diferente
+ ** !   negador (Invierte un valor booleano)
  */
 
 /**
@@ -30,4 +32,7 @@
  ** '1' == 1 = VERDADERO
  ** 1 === 1 = VERDADERO
  ** '1' === 1 = FALSO
+ ** !FALSO = VERDADERO
+ ** !VERDADERO = FALSO
+ ** 10 != 10 = VERDADERO
  */
