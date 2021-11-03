@@ -34,5 +34,5 @@
  ** '1' === 1 = FALSO
  ** !FALSO = VERDADERO
  ** !VERDADERO = FALSO
- ** 10 != 10 = VERDADERO
+ ** 10 != 10 = FALSO
  */
