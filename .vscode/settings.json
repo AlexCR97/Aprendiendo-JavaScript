@@ -1,6 +1,8 @@
 {
     "workbench.colorCustomizations": {
-        // Window configs here
+      "activityBar.background": "#0C049F",
+      "titleBar.activeBackground": "#1106DF",
+      "titleBar.activeForeground": "#FCFCFF"
     },
     "editor.tokenColorCustomizations": {
         // Code editor configs here
